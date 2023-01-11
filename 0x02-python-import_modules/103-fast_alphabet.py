@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-print("".join(chr(i) for i in range(ord("A"), ord("Z")+1)),end="\n")
+import string
+print(string.ascii_uppercase)
