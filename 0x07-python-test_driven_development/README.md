@@ -1,8 +1,8 @@
 # 0x07-python-test_driven_development
 
 # General
-## Why Python programming is awesome
-## What’s an interactive test
+* Why Python programming is awesome
+* What’s an interactive test
 * Why tests are important
 * How to write Docstrings to create tests
 * How to write documentation for each module and function
