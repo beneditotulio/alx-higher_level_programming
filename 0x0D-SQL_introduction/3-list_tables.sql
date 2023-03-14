@@ -1,2 +1,2 @@
-USE database_name;
+USE mysql;
 SHOW TABLES;
